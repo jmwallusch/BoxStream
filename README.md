@@ -1,0 +1,1 @@
+Box-kick effectiveness measured as net metres gained from own box-kicks. The sample contains the total of 91 box-kicks performed by Ireland (35 kicks) and their opponents (56 kicks). The data was gathered by using a computer vision-powered script for pitch measurement. 
